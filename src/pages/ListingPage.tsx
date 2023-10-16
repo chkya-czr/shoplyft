@@ -1,8 +1,10 @@
+import Header from "../components/Header";
+
 function ListingPage() {
   return (
-    <div>
-      <p className="text-black">Sample</p>
-    </div>
+    <>
+      <Header />
+    </>
   );
 }
 
